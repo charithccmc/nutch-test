@@ -1,2 +1,0 @@
-# nutch-test
-nutch-test
